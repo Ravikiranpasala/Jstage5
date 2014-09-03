@@ -1,0 +1,8 @@
+#RosettaVersion=635453462929689305
+Caption01=Value01
+Caption02=Value02
+Caption03=Value03
+Caption04=Value04
+Caption05=Value05
+Caption06=Value06
+Caption07=00700
