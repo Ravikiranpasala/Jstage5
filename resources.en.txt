@@ -1,0 +1,7 @@
+Caption04=Value04
+Caption05=Value05
+Caption06=Value06
+Caption07=00700
+Caption02=Value02
+Caption01=Value01
+Caption03=Value03
